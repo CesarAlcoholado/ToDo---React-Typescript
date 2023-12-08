@@ -1,4 +1,4 @@
-import { type FilterValue, type Todo as TodoType} from "../../types/types"
+import { type FilterValue } from "../../types/types"
 import { Filters } from "../filters/Filters"
 
 interface Props {
